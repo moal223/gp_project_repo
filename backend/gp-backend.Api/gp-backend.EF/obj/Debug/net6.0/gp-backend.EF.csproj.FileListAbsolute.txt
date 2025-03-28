@@ -1,0 +1,6 @@
+C:\gp-project\gp-backendv2\gp-backend.Api\gp-backend.EF\obj\Debug\net6.0\gp-backend.EF.csproj.AssemblyReference.cache
+C:\gp-project\gp-backendv2\gp-backend.Api\gp-backend.EF\obj\Debug\net6.0\gp-backend.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\gp-project\gp-backendv2\gp-backend.Api\gp-backend.EF\obj\Debug\net6.0\gp-backend.EF.AssemblyInfoInputs.cache
+C:\gp-project\gp-backendv2\gp-backend.Api\gp-backend.EF\obj\Debug\net6.0\gp-backend.EF.AssemblyInfo.cs
+C:\gp-project\gp-backendv2\gp-backend.Api\gp-backend.EF\obj\Debug\net6.0\gp-backend.EF.csproj.CoreCompileInputs.cache
+C:\gp-project\gp-backendv2\gp-backend.Api\gp-backend.EF\obj\Debug\net6.0\gp-backend.EF.sourcelink.json

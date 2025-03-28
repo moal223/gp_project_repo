@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K4HuybEcNYcu2dZQ1GL9xCkso1njcD3eT+ZnDl7kLRU=",
+  "Source": "gp-backend.Api",
+  "BasePath": "_content/gp-backend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

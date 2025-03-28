@@ -1,0 +1,7 @@
+C:\gp-project\gp-backendv2\gp-backend.Api\AuthenticationServer.Api\obj\Debug\net6.0\AuthenticationServer.Api.csproj.AssemblyReference.cache
+C:\gp-project\gp-backendv2\gp-backend.Api\AuthenticationServer.Api\obj\Debug\net6.0\AuthenticationServer.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\gp-project\gp-backendv2\gp-backend.Api\AuthenticationServer.Api\obj\Debug\net6.0\AuthenticationServer.Api.AssemblyInfoInputs.cache
+C:\gp-project\gp-backendv2\gp-backend.Api\AuthenticationServer.Api\obj\Debug\net6.0\AuthenticationServer.Api.AssemblyInfo.cs
+C:\gp-project\gp-backendv2\gp-backend.Api\AuthenticationServer.Api\obj\Debug\net6.0\AuthenticationServer.Api.csproj.CoreCompileInputs.cache
+C:\gp-project\gp-backendv2\gp-backend.Api\AuthenticationServer.Api\obj\Debug\net6.0\AuthenticationServer.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\gp-project\gp-backendv2\gp-backend.Api\AuthenticationServer.Api\obj\Debug\net6.0\AuthenticationServer.Api.sourcelink.json

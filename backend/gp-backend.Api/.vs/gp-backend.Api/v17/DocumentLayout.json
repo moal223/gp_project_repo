@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Controllers\\PharmacyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gp-backend.Api\\Controllers\\PharmacyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.api\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|solutionrelative:gp-backend.api\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|solutionrelative:gp-backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|solutionrelative:gp-backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.api\\controllers\\woundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E287B803-7CC9-41AF-9BC9-46D8686A88DA}|gp-backend.Api\\gp-backend.Api.csproj|solutionrelative:gp-backend.api\\controllers\\woundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.api\\dtos\\addpharmacydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gp-backend.api\\dtos\\addpharmacydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.ef\\mysql\\repositories\\pharmacyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gp-backend.ef\\mysql\\repositories\\pharmacyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.ef\\mysql\\repositories\\interfaces\\ipharmacyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gp-backend.ef\\mysql\\repositories\\interfaces\\ipharmacyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.core\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gp-backend.core\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiseaseController.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Controllers\\DiseaseController.cs",
+              "RelativeDocumentMoniker": "gp-backend.Api\\Controllers\\DiseaseController.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Controllers\\DiseaseController.cs",
+              "RelativeToolTip": "gp-backend.Api\\Controllers\\DiseaseController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:21:17.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "gp-backend.Api\\appsettings.json",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\appsettings.json",
+              "RelativeToolTip": "gp-backend.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-19T22:12:38.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPharmacyDto.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Dtos\\AddPharmacyDto.cs",
+              "RelativeDocumentMoniker": "gp-backend.Api\\Dtos\\AddPharmacyDto.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Dtos\\AddPharmacyDto.cs",
+              "RelativeToolTip": "gp-backend.Api\\Dtos\\AddPharmacyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:51:23.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyController.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Controllers\\PharmacyController.cs",
+              "RelativeDocumentMoniker": "gp-backend.Api\\Controllers\\PharmacyController.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Controllers\\PharmacyController.cs",
+              "RelativeToolTip": "gp-backend.Api\\Controllers\\PharmacyController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:39:33.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "gp-backend.Api\\Program.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Program.cs",
+              "RelativeToolTip": "gp-backend.Api\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:38:32.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PharmacyRepo.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.EF\\MySql\\Repositories\\PharmacyRepo.cs",
+              "RelativeDocumentMoniker": "gp-backend.EF\\MySql\\Repositories\\PharmacyRepo.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.EF\\MySql\\Repositories\\PharmacyRepo.cs",
+              "RelativeToolTip": "gp-backend.EF\\MySql\\Repositories\\PharmacyRepo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwBgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:31:57.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPharmacyRepo.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.EF\\MySql\\Repositories\\Interfaces\\IPharmacyRepo.cs",
+              "RelativeDocumentMoniker": "gp-backend.EF\\MySql\\Repositories\\Interfaces\\IPharmacyRepo.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.EF\\MySql\\Repositories\\Interfaces\\IPharmacyRepo.cs",
+              "RelativeToolTip": "gp-backend.EF\\MySql\\Repositories\\Interfaces\\IPharmacyRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:29:44.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Core\\Models\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "gp-backend.Core\\Models\\Pharmacy.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Core\\Models\\Pharmacy.cs",
+              "RelativeToolTip": "gp-backend.Core\\Models\\Pharmacy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:24:31.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WoundController.cs",
+              "DocumentMoniker": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Controllers\\WoundController.cs",
+              "RelativeDocumentMoniker": "gp-backend.Api\\Controllers\\WoundController.cs",
+              "ToolTip": "C:\\gp-project\\gp-backendv2\\gp-backend.Api\\gp-backend.Api\\Controllers\\WoundController.cs",
+              "RelativeToolTip": "gp-backend.Api\\Controllers\\WoundController.cs",
+              "ViewState": "AQIAAKUBAAAAAAAAAAAAAKwBAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:36:24.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
